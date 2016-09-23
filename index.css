@@ -8,6 +8,10 @@ main, footer {
   margin-top: 65px;
 }
 
+.btn {
+  margin-top: .8em;
+}
+
 body{
   background-color: whitesmoke;
   font-family: Hind+Madurai;
